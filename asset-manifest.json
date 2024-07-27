@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Safari/static/css/main.a11d4897.css",
+    "main.js": "/Safari/static/js/main.691f6e95.js",
+    "static/js/453.065454bd.chunk.js": "/Safari/static/js/453.065454bd.chunk.js",
+    "static/media/939d4fe8-e682-4401-bff1-6ba11b4d5eb4.webp": "/Safari/static/media/939d4fe8-e682-4401-bff1-6ba11b4d5eb4.6a6e852c2a48eec765d3.webp",
+    "static/media/4753bf98-d03e-4224-a0c9-25d898d16c8f.webp": "/Safari/static/media/4753bf98-d03e-4224-a0c9-25d898d16c8f.92c899979c22f68cb3aa.webp",
+    "static/media/972289f1-01ee-4450-b651-8cad9a85d745.webp": "/Safari/static/media/972289f1-01ee-4450-b651-8cad9a85d745.bf3a10b5bb6250fee6a6.webp",
+    "static/media/ba217b95-6179-4e2e-8f13-f56dfac054e0.webp": "/Safari/static/media/ba217b95-6179-4e2e-8f13-f56dfac054e0.45790bc98ca7e7bd2731.webp",
+    "static/media/img1.webp": "/Safari/static/media/img1.fd6550b00d520c11396f.webp",
+    "static/media/img4.webp": "/Safari/static/media/img4.d3f15566182bcbefdcfd.webp",
+    "static/media/img2.webp": "/Safari/static/media/img2.1d24c74149006e0e77cc.webp",
+    "static/media/img3.webp": "/Safari/static/media/img3.e64c80141f05a2a744a5.webp",
+    "index.html": "/Safari/index.html",
+    "main.a11d4897.css.map": "/Safari/static/css/main.a11d4897.css.map",
+    "main.691f6e95.js.map": "/Safari/static/js/main.691f6e95.js.map",
+    "453.065454bd.chunk.js.map": "/Safari/static/js/453.065454bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a11d4897.css",
+    "static/js/main.691f6e95.js"
+  ]
+}
